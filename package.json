@@ -21,6 +21,7 @@
   "homepage": "https://github.com/k2wackie/React-Management-Tutorial#readme",
   "dependencies": {
     "concurrently": "^7.1.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
   }
 }
